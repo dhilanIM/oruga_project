@@ -1,5 +1,5 @@
 ### Oruga
-External ROS packages needed
+External ROS packages needed (Melodic distro)
 - [Ydlidar package](https://github.com/YDLIDAR/ydlidar_ros)
 - [Navigation stack](http://wiki.ros.org/navigation)
 - [rosserial](rosserial)
