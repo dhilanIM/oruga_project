@@ -4,3 +4,4 @@ ros/oruga_pkg/src/campo_potencial.py
 ros/oruga_pkg/src/action_client.py
 ros/oruga_pkg/src/action_server.py
 ros/oruga_pkg/action
+ros/oruga_pkg/.vscode
